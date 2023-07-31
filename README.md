@@ -4,7 +4,7 @@ The official technical fest website of Bengal Institute of Technology(BIT), Kolk
 Front-end developers: Priyankar Sarkar, Tanmoy Choudhury, Sruti Das <br>
 Back-end developers: Rishav Ghosh <br>
 
-Front-end frameworks and libraries: React.JS, Tailwind CSS, React-toastify, React-cookie
-Back-end frameworks: Flask
-Database: SQLite
+Front-end frameworks and libraries: React.JS, Tailwind CSS, React-toastify, React-cookie <br>
+Back-end frameworks: Flask <br>
+Database: SQLite <br>
 Tools: Vite.JS, npm, Git
